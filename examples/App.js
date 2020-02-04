@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import {
   StyleSheet,
   View,
@@ -44,8 +44,6 @@ const App = () => {
           <Text>Fade Out</Text>
         </TouchableOpacity>
       </View>
-     
-      {/* <Text>ola</Text> */}
     </View>
   );
 };
