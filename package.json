@@ -1,6 +1,6 @@
 {
   "name": "react-native-easy-animations",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and easy to use React Native package with multiple Animated Components.",
   "main": "index.js",
   "scripts": {
